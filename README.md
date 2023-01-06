@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm Santiago.
 
-<!--
-**sddiaz/sddiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on personal projects!
+- 🌱 I’m currently learning React, Next.js, MongoDB. 
+- 👯 I’m looking to collaborate with anyone and everyone!
+- 🤔 I’m looking for help with SWE interview prep and best practices
+- 💬 Ask me about my portfolio projects!
+- 📫 How to reach me: email -> sddiaz2003@gmail.com
 
-Here are some ideas to get you started:
+**Some technologies I'm familiar with:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
+**Some technologies I'm learning or would like to learn:**
+
+**Check out my Portfolio Projects Here:**
