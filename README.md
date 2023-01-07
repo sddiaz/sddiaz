@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Santi 🪐.
+# Hi there 👋, I'm Santi 🪐
 
 
 ```javascript
