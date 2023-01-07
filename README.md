@@ -13,7 +13,7 @@
 
 * I'm currently studying Computer Engineering 🖥️ at [Wichita State University](https://www.wichita.edu/) (graduation -> 12/23)
 
-* I'm currently learning React.JS and Next.JS to make responsive software 🪴
+* I'm learning React.JS and Next.JS to make responsive, high quality applications 🪴
 
 * I'm seeking to grow in my knowledge of full-stack software engineering, network with like minded people, and build amazing projects! 🛠️
 
