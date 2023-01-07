@@ -17,6 +17,8 @@
 
 * I'm seeking to grow in my knowledge of full-stack software engineering, network with like minded people, and build amazing projects! 🛠️
 
+* I enjoy programming [ duh :) ], hanging out with friends, traveling to new places, playing video games, and learning new things about stuff I enjoy! 🍄
+
 ## What have I done so far? 
 
 * At my [current job](https://www.wichita.edu/industry_and_defense/NIAR/Laboratories/robotics.php) I've utilized C# / .NET and contributed to numerous web and desktop applications, with experience on both ends of the stack. 🧬
