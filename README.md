@@ -2,11 +2,10 @@
 
 
 ```javascript
-    let myInfo = 
-    {
+    let myInfo = {
       "name": "Santiago Diaz",
       "profession": "Aspiring Software Engineer",
-     }
+    }
     console.log(myInfo.name + " / " + myInfo.profession);
 ```
 
