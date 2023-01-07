@@ -19,7 +19,7 @@
 
 ## What have I done so far? 
 
-* At my [current job](https://www.wichita.edu/industry_and_defense/NIAR/Laboratories/robotics.php) I've contributed to numerous web and desktop applications, with experience both client and server-side. 🧬
+* At my [current job](https://www.wichita.edu/industry_and_defense/NIAR/Laboratories/robotics.php) I've utilized C# / .NET and contributed to numerous web and desktop applications, with experience both client and server-side. 🧬
 
 * My desire to create personal projects and build up my portfolio began around September. As of now, I have a handful of smaller projects, with hopes to build a few large ones this year. 
 
