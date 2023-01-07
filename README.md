@@ -36,6 +36,6 @@
 </div>
 
 ### Employers or those simply interested: 
-##Click the icon below to check out my resume: 
+## Click the icon below to check out my resume: 
 <div> 
 <a href="https://docs.google.com/document/d/e/2PACX-1vT5_vZ_fqLC8BmadOV9hdSAHpZFBJJka1oDyZ8kPPXpGJFplpYy_hamNpAZP2R0w2v0plYLqn8w66BT/pub" target="_blank" height="50"><img src="https://www.pngfind.com/pngs/m/61-611935_paper-sheet-svg-png-icon-free-download-paper.png" alt="vs" height="40"/> </a></div>
