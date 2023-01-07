@@ -19,6 +19,10 @@
 
 ## What have I done so far? 
 
+* At my current job I've contributed to numerous web and desktop applications, with experience both client and server-side. 🧬
+
+* My desire to create personal projects and build up my portfolio began around September. As of now, I have a handful of smaller projects, with hopes to build a few large ones this year. 
+
 ## What tools do I use? 
 
 <div> 
@@ -30,3 +34,5 @@
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="35" height="35"/> </a>   
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" width="35" height="35"/> </a>  
 </div>
+
+Click this icon to check out my resume <div><iframe src="https://docs.google.com/document/d/e/2PACX-1vT5_vZ_fqLC8BmadOV9hdSAHpZFBJJka1oDyZ8kPPXpGJFplpYy_hamNpAZP2R0w2v0plYLqn8w66BT/pub?embedded=true"></iframe></div>
