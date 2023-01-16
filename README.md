@@ -1,5 +1,5 @@
-# Hi there 👋, I'm Santi 🪐
-
+<h1 align="center">Hi there 👋, I'm Santi 🪐h</h1>
+<h3 align="center">aspiring software engineer</h3>
 
 ```javascript
     let myInfo = {
