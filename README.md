@@ -9,7 +9,7 @@
     console.log(myInfo.name + " / " + myInfo.profession);
 ```
 
-## What am I up to? 
+## Who am I? What am I up to?
 
 * I'm currently studying Computer Engineering 🖥️ at [Wichita State University](https://www.wichita.edu/) (graduation -> 12/23)
 
