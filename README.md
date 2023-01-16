@@ -17,7 +17,7 @@
 
 * I'm seeking to grow in my knowledge of full-stack software engineering, network with like minded people, and build amazing projects! 🛠️
 
-* I enjoy programming [ duh :) ], hanging out with friends, traveling to new places, playing video games, and learning new things about what I love! 🍄
+* I enjoy programming, hanging out with friends, traveling to new places, playing video games, and learning new things about what I love! 🍄
 
 ## What have I done so far? 
 
