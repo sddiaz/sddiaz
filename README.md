@@ -25,7 +25,7 @@
 
 * My desire to create personal projects and build up my portfolio began around September of 2022. As of now, I have a handful of smaller projects [all available on my github](https://github.com/sddiaz/Portfolio-Projects)! I have hopes to build a few large ones this year. 
 
-[![Here's my stats!](https://github-readme-stats.vercel.app/api?username=sddiaz)](https://github.com/sddiaz/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sddiaz&show_icons=true&theme=radical)
 
 ## What tools do I use? 
 
