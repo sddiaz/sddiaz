@@ -25,10 +25,10 @@
 
 * My desire to create personal projects and build up my portfolio began around September of 2022. As of now, I have a handful of smaller projects [all available on my github](https://github.com/sddiaz/Portfolio-Projects)! I have hopes to build a few large ones this year. 
 
- <h1 align="center"> 
-    <img height="300px" width="300px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=sddiaz&theme=graywhite"/> 
-    <img height="300px" width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=graywhite&layout=compact"/>
-</h1>
+ <div display="flex" align="center"> 
+    <img height="300px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=sddiaz&theme=graywhite"/> 
+    <img height="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=graywhite&layout=compact"/>
+</div>
  
 ## What tools do I use? 
 
