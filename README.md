@@ -11,7 +11,7 @@
 
 ## Who am I? What am I up to?
 
-* I'm currently studying Computer Engineering 🖥️ at [Wichita State University](https://www.wichita.edu/) (graduation -> 12/23)
+* I'm currently pursuing a BS Degree in Computer Engineering 🖥️ at [Wichita State University](https://www.wichita.edu/) (graduation -> 12/23)
 
 * I'm learning React.JS to make responsive, high quality applications 🪐
 
