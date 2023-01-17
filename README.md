@@ -27,8 +27,8 @@
 
 ### Here's some cool stats 📈
  <div display="flex" align-content="center"> 
-    <img height="300px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=sddiaz&theme=graywhite"/> 
-    <img height="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=graywhite&layout=compact"/>
+    <img height="250px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=sddiaz&theme=graywhite"/> 
+    <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=graywhite&layout=compact"/>
 </div>
  
 ## What tools do I use? 
