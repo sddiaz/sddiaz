@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Santi 🪐</h1>
-<h3 align="center">aspiring software engineer</h3>
+<h3 align="center">I'm passionate about using technology for societal progress</h3>
 
 ```javascript
     let myInfo = {
       "name": "Santiago Diaz",
-      "profession": "Full time Student, Robotics Programmer @NIAR",
+      "profession": "Full time Student, Software Engineer @Ennovar",
     }
     console.log(myInfo.name + " / " + myInfo.profession);
 ```
