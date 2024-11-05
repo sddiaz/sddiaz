@@ -4,7 +4,7 @@
 ```javascript
     let myInfo = {
       "name": "Santiago Diaz",
-      "profession": "Full time Student, Software Engineer @Ennovar",
+      "profession": "Full time Student, Software Engineer @walmart!",
     }
     console.log(myInfo.name + " / " + myInfo.profession);
 ```
