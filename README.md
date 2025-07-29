@@ -21,11 +21,8 @@
 
 ## What have I done so far? 
 
-* In my current role, I'm leading the front-end development of a React-based employee hub for my employer. This hub will allow base users to view and edit their profile information, provide quick links to important sites (scheduling, timekeeping, etc.) as well as their dashboard, and also allow admin users to view and modify our highly filterable employee database. 
-
+* In my current role, I'm leading the front-end development of a React-based internal tool at Walmart. This tool will allow users to create and modify processes that impact 10,000+ stores, and millions of items across America.
 * At my [last job](https://www.wichita.edu/industry_and_defense/NIAR/Laboratories/robotics.php) I've utilized C# / .NET and contributed to numerous web and desktop applications, with experience on both ends of the stack. 🧬
-
-* My desire to create personal projects and build up my portfolio began around September of 2022. As of now, I have a handful of smaller projects [all available on my github](https://github.com/sddiaz/Portfolio-Projects)! I have hopes to build a few large ones this year, including a feature-rich journaling web-app, UI focused landing page, and a portfolio website! 
 
 ### Here's some cool stats 📈
  <div display="flex" align-content="center"> 
