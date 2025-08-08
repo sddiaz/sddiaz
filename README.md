@@ -1,14 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Santi 🪐</h1>
 <h3 align="center">I'm passionate about using technology for societal progress</h3>
 
-```javascript
-    let myInfo = {
-      "name": "Santiago Diaz",
-      "profession": "Full time Student, Software Engineer @walmart!",
-    }
-    console.log(myInfo.name + " / " + myInfo.profession);
-```
-
 ## Who am I? What am I up to?
 
 * In December 2023, I graduated with my BS Degree in Computer Engineering 🖥️ at [Wichita State University](https://www.wichita.edu/)
@@ -19,16 +11,10 @@
 
 * I enjoy programming, hanging out with friends, traveling to new places, playing video games, and learning new things about what I love! 🍄
 
-## What have I done so far? 
+## What's my career like
 
 * In my current role, I'm leading the front-end development of a React-based internal tool at Walmart. This tool will allow users to create and modify processes that impact 10,000+ stores, and millions of items across America.
 * At my [last job](https://www.wichita.edu/industry_and_defense/NIAR/Laboratories/robotics.php) I've utilized C# / .NET and contributed to numerous web and desktop applications, with experience on both ends of the stack. 🧬
-
-### Here's some cool stats 📈
- <div display="flex" align-content="center"> 
-    <img height="250px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=sddiaz&theme=graywhite"/> 
-    <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=graywhite&layout=compact"/>
-</div>
  
 ## What tools do I use? 
 
