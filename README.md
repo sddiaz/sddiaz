@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Santi 🪐</h1>
 <h3 align="center">I'm passionate about using technology for societal progress</h3>
 
-## Who am I? What am I up to?
+## Who am I? 
 
 * In 2023, I graduated with my BS Degree in Computer Engineering 🖥️ at [Wichita State University](https://www.wichita.edu/)
 
@@ -11,12 +11,12 @@
 
 * I enjoy programming, hanging out with friends, traveling to new places, playing video games, and learning new things about what I love! 🍄
 
-## What's my career like
+## Career
 
 * In my current role, I'm leading the front-end development of a React-based internal tool at Walmart. This tool will allow users to create and modify processes that impact 10,000+ stores, and millions of items across America.
 * At my [last job](https://www.wichita.edu/industry_and_defense/NIAR/Laboratories/robotics.php) I've utilized C# / .NET and contributed to numerous web and desktop applications, with experience on both ends of the stack. 🧬
  
-## What tools do I use? 
+## Skills
 
 <div> 
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="vs" height="60"/> </a>
@@ -28,6 +28,6 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" width="60" height="60"/> </a>  
 </div>
 
-## Click the icon below to check out my resume: 
+## Resume 
 <div> 
 <a href="https://docs.google.com/document/d/e/2PACX-1vT5_vZ_fqLC8BmadOV9hdSAHpZFBJJka1oDyZ8kPPXpGJFplpYy_hamNpAZP2R0w2v0plYLqn8w66BT/pub" target="_blank" height="50"><img src="https://www.pngfind.com/pngs/m/61-611935_paper-sheet-svg-png-icon-free-download-paper.png" alt="vs" height="75"/> </a></div>
