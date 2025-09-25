@@ -5,7 +5,7 @@
 
 * In 2023, I graduated with my BS Degree in Computer Engineering 🖥️ at [Wichita State University](https://www.wichita.edu/)
 
-* I'm learning AI/ML technologies (PyTorch, HuggingFace, Fast AI) to make cutting edge apps
+* I'm currently learning about AI/ML technologies (PyTorch, HuggingFace, Fast AI) to make cutting edge apps
 
 * I'm seeking to grow in my knowledge of full-stack software engineering, network with like minded people, and build amazing projects! 🛠️
 
