@@ -16,7 +16,7 @@
 ## Career
 
 * **DoorDash (Jan 2026 – Present):** On the Storefront Merchant Experience team, building onboarding screens, dashboards, and product wins that help onboard and *keep* merchants, and eventually bring in more SaaS subscribers. Day to day I work in TypeScript and React across the frontend and full stack.
-* **Walmart Global Tech (Jan 2025 – Jan 2026):** Led front-end development of a React-based internal tool that lets users create and modify processes impacting 10,000+ stores and millions of items across America.
+* **Walmart Global Tech (Jan 2025 – Jan 2026):** Space Applications Team - Led front-end development of numerous React-based internal projects that lets users create and modify processes impacting 10,000+ stores and millions of items across America.
 * **[NIAR Robotics Lab](https://www.wichita.edu/industry_and_defense/NIAR/Laboratories/robotics.php):** Used C# / .NET to contribute to numerous web and desktop applications, with experience on both ends of the stack. 🧬
 
 
