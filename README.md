@@ -3,7 +3,7 @@
 
 ## Who am I? 
 
-* Software Engineer at DoorDash, based in Seattle 🌲 (originally from Arkansas)
+* Software Engineer at DoorDash, based in Seattle 🌲 (originally from Kansas 🌽)
 
 * In 2023, I graduated with my BS Degree in Computer Engineering 🖥️ at [Wichita State University](https://www.wichita.edu/)
 
